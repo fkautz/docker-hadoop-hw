@@ -1,3 +1,4 @@
+wget -c http://public-repo-1.hortonworks.com/HDP/centos5/1.x/GA/1.3.0.0/tars/hadoop-1.2.0.1.3.0.0-107.tar.gz
 rm -rf hadoop hadoop-1.2.0.1.3.0.0-107
 tar -zxf hadoop-1.2.0.1.3.0.0-107.tar.gz
 mv hadoop-1.2.0.1.3.0.0-107 hadoop
